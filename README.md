@@ -1,4 +1,4 @@
-# File-Intergrity-Checker with known hash value
+# File-Intergrity-Checker with known hash value using bash
 
 Pseudo code
 ------------
